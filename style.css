@@ -39,11 +39,11 @@ h2 {
 }
 
 .btn {
-    background-color: #9f68e0;
+    background-color: #00A2FF;
     color: #fff;
     border: 0;
     border-radius: 10px;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 6px 12px rgb(134 140 150 / 65%);
     padding: 14px 40px;
     font-size: 14px;
     cursor: pointer;
